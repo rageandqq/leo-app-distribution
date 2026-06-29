@@ -1,0 +1,28 @@
+{
+  "name": "LeoLog",
+  "subtitle": "Personal care tracker releases",
+  "description": "Release source for Sameer and Siddhi's LeoLog installations.",
+  "iconURL": "https://raw.githubusercontent.com/rageandqq/leo-app-distribution/main/icon.png",
+  "tintColor": "#F7F3EA",
+  "featuredApps": [
+    "com.rageandqq.leo-app"
+  ],
+  "apps": [
+    {
+      "name": "LeoLog",
+      "bundleIdentifier": "com.rageandqq.leo-app",
+      "developerName": "Sameer Chitley",
+      "subtitle": "Leo's care tracker",
+      "localizedDescription": "A care tracker for Leo.",
+      "iconURL": "https://raw.githubusercontent.com/rageandqq/leo-app-distribution/main/icon.png",
+      "tintColor": "#F7F3EA",
+      "category": "lifestyle",
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
