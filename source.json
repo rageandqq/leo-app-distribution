@@ -17,7 +17,18 @@
       "iconURL": "https://raw.githubusercontent.com/rageandqq/leo-app-distribution/main/icon.png",
       "tintColor": "#F7F3EA",
       "category": "lifestyle",
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.9.0",
+          "buildVersion": "13",
+          "date": "2026-08-14T21:16:31.340Z",
+          "localizedDescription": "Initial AltStore release for Sameer",
+          "downloadURL": "https://github.com/rageandqq/leo-app-distribution/releases/download/ios-v1.9.0-b13/LeoLog-1.9.0-13.ipa",
+          "size": 17311484,
+          "sha256": "86095d8bc08c7366eabaca3b37f305c490c167e27983c77e1869d6ad815b8ad0",
+          "minOSVersion": "16.4"
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
