@@ -19,6 +19,16 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "1.10.0",
+          "buildVersion": "14",
+          "date": "2026-08-26T02:38:09.255Z",
+          "localizedDescription": "LeoLog 1.10.0: smarter care logging and reminders.\n\n- Adds shared suggestions for custom treats.\n- Improves actor reassignment layout and shows logged times in the device's local timezone.\n- Makes care reminders more reliable with overnight quiet hours, hourly deduplication, notification cleanup, and fresh server verification.",
+          "downloadURL": "https://github.com/rageandqq/leo-app-distribution/releases/download/ios-v1.10.0-b14/LeoLog-1.10.0-14.ipa",
+          "size": 17314997,
+          "sha256": "80b77fe32ad0fb3934b60ec1f66dce62b09790239d924164be58559fe73f45c7",
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.9.0",
           "buildVersion": "13",
           "date": "2026-08-14T21:16:31.340Z",
