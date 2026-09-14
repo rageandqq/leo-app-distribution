@@ -19,6 +19,16 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "1.10.1",
+          "buildVersion": "15",
+          "date": "2026-09-14T04:33:09.995Z",
+          "localizedDescription": "Smoother day swipes and clearer Stats charts.",
+          "downloadURL": "https://github.com/rageandqq/leo-app-distribution/releases/download/ios-v1.10.1-b15/LeoLog-1.10.1-15.ipa",
+          "size": 17314949,
+          "sha256": "8ea42a117715787edcd280cafa78214525439864fe8783316cf66063f04e249a",
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.10.0",
           "buildVersion": "14",
           "date": "2026-08-26T02:38:09.255Z",
