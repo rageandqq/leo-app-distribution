@@ -19,6 +19,16 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "1.11.0",
+          "buildVersion": "16",
+          "date": "2026-09-24T11:41:08.716Z",
+          "localizedDescription": "Record active walk routes with Apple Maps and select walk durations in hours and minutes.",
+          "downloadURL": "https://github.com/rageandqq/leo-app-distribution/releases/download/ios-v1.11.0-b16/LeoLog-1.11.0-16.ipa",
+          "size": 17748777,
+          "sha256": "8cd4b0d64c2c1b061a755c1cb7ad07aad31fba766a526f62ea9b651fb3644703",
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.10.1",
           "buildVersion": "15",
           "date": "2026-09-14T04:33:09.995Z",
@@ -51,7 +61,12 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Allow LeoLog to keep recording an active walk route when the screen is locked or the app is in the background.",
+          "NSLocationAlwaysUsageDescription": "Allow LeoLog to access your location",
+          "NSLocationWhenInUseUsageDescription": "Allow LeoLog to record your location only while an active walk is running so its route can be shown on a map.",
+          "NSMotionUsageDescription": "Allow LeoLog to detect your current motion activity"
+        }
       }
     }
   ],
