@@ -19,6 +19,16 @@
       "category": "lifestyle",
       "versions": [
         {
+          "version": "1.12.0",
+          "buildVersion": "17",
+          "date": "2026-09-30T03:33:24.789Z",
+          "localizedDescription": "Release Stats geography, walk heatmaps, and login form fixes",
+          "downloadURL": "https://github.com/rageandqq/leo-app-distribution/releases/download/ios-v1.12.0-b17/LeoLog-1.12.0-17.ipa",
+          "size": 17779464,
+          "sha256": "7bc69cb942c90a4708ac3a68737365986a694d87acc63540d84e147426901440",
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "1.11.0",
           "buildVersion": "16",
           "date": "2026-09-24T11:41:08.716Z",
